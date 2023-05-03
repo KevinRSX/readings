@@ -1,9 +1,6 @@
----
-MI6: Secure Enclave in a Speculative Out-of-Order Processor
-Link: https://dl.acm.org/doi/pdf/10.1145/3352460.3358310
-Conference: MICRO '19
+[MI6: Secure Enclave in a Speculative Out-of-Order Processor](https://dl.acm.org/doi/pdf/10.1145/3352460.3358310)
+Appeared in: MICRO '19
 Authors: Thomas Bourgeat, Ilia Lebedev, Andrew Wright, Sizhuo Zhang, Arvind Srinivas Devadas
----
 
 # MI6 (MICRO 2019)
 
